@@ -238,3 +238,6 @@ This repository serves as the official landing page for Scorched 3D. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Scorched 3D today!**
+
+---
+**Last updated:** 2026-09-12 04:10:43 UTC
