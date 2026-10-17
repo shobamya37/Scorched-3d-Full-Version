@@ -240,4 +240,4 @@ This repository serves as the official landing page for Scorched 3D. The softwar
 **Get the most recent version of Scorched 3D today!**
 
 ---
-**Last updated:** 2026-10-17 12:51:59 UTC
+**Last updated:** 2026-10-17 16:16:31 UTC
